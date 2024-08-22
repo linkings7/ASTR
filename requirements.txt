@@ -1,0 +1,11 @@
+git+https://github.com/votchallenge/vot-toolkit-python
+opencv-python
+timm
+tb-nightly
+jpeg4py
+visdom
+matplotlib
+lmdb
+pandas
+easydict
+numpy==1.22.0
