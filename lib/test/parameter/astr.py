@@ -1,7 +1,7 @@
 from lib.test.utils import TrackerParams
 import os
 from lib.test.evaluation.environment import env_settings
-from lib.config.xtracker.config import cfg, update_config_from_file
+from lib.config.astr.config import cfg, update_config_from_file
 
 
 def parameters(yaml_path, weight_path):
